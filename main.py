@@ -20,7 +20,7 @@ To improve this Python program, here are a few suggestions:
 
 10. Use version control to track changes made to the code and enable collaboration with other developers.
 
-11. Add detailed comments to explain the purpose and functionality of each class, function, and block of code. This will make it easier for others (including your future self) to understand the code.
+11. Add detailed comments to explain the purpose and functionality of each class , function, and block of code. This will make it easier for others (including your future self) to understand the code.
 
 12. Remove redundant or unused code to improve code readability and maintainability.
 
