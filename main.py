@@ -1,7 +1,3 @@
-import unittest
-import sqlite3
-import necessary_module2
-import necessary_module1
 Here are the code fixes for your suggestions:
 
 1. Remove unnecessary imports:
@@ -144,12 +140,10 @@ class SmartHomeEnergySystem:
         # Initialize key features and functionalities here
 
         # This method calculates power consumption for a specific device
+    def power_consumption(self, device_id: int) -> float:
 
 
-def power_consumption(self, device_id: int) -> float:
-
-
-    # Function body
+        # Function body
 ```
 
 12. Remove redundant or unused code:
